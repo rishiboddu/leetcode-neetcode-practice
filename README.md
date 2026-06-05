@@ -13,7 +13,7 @@ Leetcode 49: Group Anagrams (medium) https://github.com/rishiboddu/leetcode-neet
 
 Leetcode 56: Merge Intervals (medium) https://github.com/rishiboddu/leetcode-neetcode-practice/blob/main/leetcode/leetcode56.java
 
-Leetcode 68: 68. Text Justification (hard) 
+Leetcode 68: 68. Text Justification (hard) https://github.com/rishiboddu/leetcode-neetcode-practice/blob/main/leetcode/leetcode68.py 
 
 Leetcode 191: Number of 1-Bits (easy) https://github.com/rishiboddu/leetcode-neetcode-practice/blob/main/leetcode/leetcode191.java
 
