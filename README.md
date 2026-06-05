@@ -7,6 +7,8 @@ LEETCODE
 
 Leetcode 1: TwoSum (easy) https://github.com/rishiboddu/leetcode-neatcode-practice/blob/main/leetcode/leetcode1.java
 
+Leetcode 3: Longest Substring Without Repeating Characters (medium) https://github.com/rishiboddu/leetcode-neetcode-practice/blob/main/leetcode/leetcode3.py
+
 Leetcode 19: Remove Nth Node From End of List (medium) https://github.com/rishiboddu/leetcode-neetcode-practice/blob/main/leetcode/leetcode19.java
 
 Leetcode 49: Group Anagrams (medium) https://github.com/rishiboddu/leetcode-neetcode-practice/blob/main/leetcode/leetcode49.java
