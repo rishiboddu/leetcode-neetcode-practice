@@ -3,7 +3,7 @@ Hi! My name is Rishitha Boddu and I'm an undergraduate student at UC Berkeley re
 
 
 
-JAVA LEETCODE
+LEETCODE
 
 Leetcode 1: TwoSum (easy) https://github.com/rishiboddu/leetcode-neatcode-practice/blob/main/leetcode/leetcode1.java
 
@@ -12,6 +12,8 @@ Leetcode 19: Remove Nth Node From End of List (medium) https://github.com/rishib
 Leetcode 49: Group Anagrams (medium) https://github.com/rishiboddu/leetcode-neetcode-practice/blob/main/leetcode/leetcode49.java
 
 Leetcode 56: Merge Intervals (medium) https://github.com/rishiboddu/leetcode-neetcode-practice/blob/main/leetcode/leetcode56.java
+
+Leetcode 68: 68. Text Justification (hard) 
 
 Leetcode 191: Number of 1-Bits (easy) https://github.com/rishiboddu/leetcode-neetcode-practice/blob/main/leetcode/leetcode191.java
 
