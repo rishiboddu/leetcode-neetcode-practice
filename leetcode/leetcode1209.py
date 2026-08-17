@@ -16,6 +16,12 @@ space complexity: O(n)
 
 class Solution:
     def removeDuplicates(self, s: str, k: int) -> str:
+        # base cases
+        if not bool(str):
+            return ""
+        if k < 2:
+            return str
+            
         stack = []
         for char in s:
             # for each char in the string, add it to the stack as [character, count = 1]
