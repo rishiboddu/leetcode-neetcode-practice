@@ -1,6 +1,6 @@
 '''
-Leetcode #14: Longest Common Prefix
-
+Leetcode #14: Longest Common Prefix (easy)
+https://leetcode.com/problems/longest-common-prefix
 given an array of strings, return the longest common case-insensitive prefix amongst all the elements, "" if there is none
 '''
 
