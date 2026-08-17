@@ -6,7 +6,14 @@ Given string s and integer k, remove k adjacent and equal/duplicate letters from
 Repeatedly make k duplicate removals from s until we no longer can. Return the final remaining string after all such k duplicate removals have been made.
 '''
 
-# approach : use a stack with [character, count] pairs to track adjacent duplicate characters even after k duplicate removals occur
+'''
+approach : use a stack with [character, count] pairs to track adjacent duplicate characters even after k duplicate removals occur
+time complexity: O(n) 
+    only one traversal through given string, and one more through the remaining stack afterwards to transform from list to string
+space complexity: O(n)
+    only one extra data structure, the stack, is created and it will be max length n
+'''
+
 class Solution:
     def removeDuplicates(self, s: str, k: int) -> str:
         stack = []
